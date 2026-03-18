@@ -2,6 +2,8 @@
 
 **JobOracle — Intelligence MCP Server** — 8 tools | Part of [ToolOracle](https://tooloracle.io)
 
+[![JobOracle MCP server](https://glama.ai/mcp/servers/ToolOracle/joboracle/badges/card.svg)](https://glama.ai/mcp/servers/ToolOracle/joboracle)
+
 ## Connect
 ```bash
 npx -y mcp-remote https://tooloracle.io/jobs/mcp/
