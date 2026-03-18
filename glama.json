@@ -1,0 +1,6 @@
+{
+  "name": "JobOracle",
+  "description": "JobOracle Intelligence MCP",
+  "endpoint": "https://tooloracle.io/jobs/mcp/",
+  "transport": "streamable-http"
+}
