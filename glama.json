@@ -1,6 +1,8 @@
 {
-  "name": "JobOracle",
-  "description": "JobOracle Intelligence MCP",
-  "endpoint": "https://tooloracle.io/jobs/mcp/",
-  "transport": "streamable-http"
+  "name": "jobOracle",
+  "description": "Job Market Intelligence \u2014 8 MCP tools for job search & market data",
+  "repository": "https://github.com/ToolOracle/joboracle",
+  "endpoint": "https://tooloracle.io/job/mcp/",
+  "tools": 8,
+  "license": "MIT"
 }
